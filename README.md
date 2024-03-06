@@ -1,0 +1,2 @@
+# People Counter using YOLOv8n and SORT
+This Python script utilizes the YOLO object detection model (implemented with the YOLOv5 architecture) to count people in a video stream. It combines YOLOv5's object detection capabilities with the Simple Online and Realtime Tracking (SORT) algorithm for multi-object tracking. The script reads a video file or camera stream, detects people in each frame, and counts the number of people passing through predefined counting lines.
