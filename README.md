@@ -9,7 +9,7 @@ This Python script utilizes the YOLO object detection model (implemented with th
 . Ultralytics' YOLO package (https://github.com/ultralytics/yolov8)
 . cvzone package (https://github.com/cvzone/cvzone)
 
-# Installatio Of important library 
+# Installation Of important library 
 . cvzone==1.5.6
 , ultralytics==8.0.26
 , hydra-core>=1.2.0
